@@ -12,6 +12,8 @@ Using the Azure Portal, create a Cilium-enabled AKS cluster with a minimum of **
 Ensure you check the **"Enable Cilium dataplane and network policy"** box on the **Networking** page.  
 You can stick with the default settings for most other options.
 
+The Cilium WireGuard feature should work on ALL AKS versions!
+
 ---
 
 ### 2. Enable WireGuard
